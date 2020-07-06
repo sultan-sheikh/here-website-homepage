@@ -363,14 +363,19 @@ padding: 5px 0;
     font-size: 15px;
 }
 .ending-lst li a i{
-    font-size: 26px;
-    border-radius: 30px;
-    justify-content: center;
-    align-items: center;
-    transition: .5s;
+	height: 35px;
+	width:35px;
+	line-height: 35px;
+	font-size: 20px;
+	text-align: center;
+	background: white;
+	color:black;
+	transition:.4s;
 }
 .ending-lst li a i:hover{
-	color:#38ffe6;
+	background:dodgerblue;
+	color:white;
+	transition: .4s;
 }
 /*footer section end*/
 
