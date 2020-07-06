@@ -223,7 +223,7 @@ padding: 5px 0;
 	color:#333;
 	border: 1px solid #007eff;
 }
-.data-content img:hover{
+.data-content .card:hover img{
 	transform: scale(1.05);
 }
 .data-content .card{
