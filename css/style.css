@@ -25,10 +25,12 @@ padding: 5px 0;
 }
 .nav-link{
 	font-weight: 500;
-    font-size: 14px;
-    padding: 8px 17px !important;
-    border-radius: 30px;
-    margin-left: 5px;
+	font-size: 14px;
+	padding: 8px 17px !important;
+	border-radius: 30px;
+	margin-left: 5px;
+	text-transform: capitalize;
+	transition: .4s !important;
 }
 .nav-link:hover{
     color: #656565;
